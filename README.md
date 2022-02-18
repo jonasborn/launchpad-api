@@ -1,6 +1,6 @@
 # About
 This is a Java API for the Novilation Launchpad.
-The documentation is still pending but the API is quite strait forward:
+The documentation is still pending but the API is quite straightforward:
 
 ``` java
 
